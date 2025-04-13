@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
   - Flutter & Dart
   - C & C++
-  - HTML/CSS & Javascrip
+  - HTML/CSS & Javascript
 
 <h3 align="left">Projects:</h3>
 
