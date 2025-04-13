@@ -59,4 +59,7 @@ Here are some ideas to get you started:
 
 - <b>Quiz App (Flutter & Dart)</b>
   - [Project Repository for Quiz App](https://github.com/BSSE23083/Quiz_App_Flutter)
+ 
+- <b>Rishta App (UI Design)</b>
+  - [Figma Link Portfolio](https://tr.ee/lbYhFiG96s)
 
