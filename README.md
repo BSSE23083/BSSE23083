@@ -59,7 +59,10 @@ Here are some ideas to get you started:
 
 - <b>Quiz App (Flutter & Dart)</b>
   - [Project Repository for Quiz App](https://github.com/BSSE23083/Quiz_App_Flutter)
+
+- <b>Expense Tracker App (Flutter & Dart)</b>
+  - [Project Repository for Expense Tracker App](https://github.com/BSSE23083/Expense_Tracker_App)
  
 - <b>Rishta App (UI Design)</b>
-  - [Figma Link Portfolio](https://tr.ee/lbYhFiG96s)
+  - [Figma Link Portfolio](https://tr.ee/lbYhFiG96)
 
