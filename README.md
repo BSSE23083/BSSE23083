@@ -65,4 +65,7 @@ Here are some ideas to get you started:
  
 - <b>Rishta App (UI Design)</b>
   - [Figma Link Portfolio](https://tr.ee/lbYhFiG96)
+ 
+- <b>Meals App (Flutter & Dart)</b>
+  - <p>Currently Working on it</p>
 
