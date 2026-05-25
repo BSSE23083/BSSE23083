@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Abdul Samad Sohail</h1>
   <p><b>Software Engineering Student at ITU Lahore | UI/UX & Product Designer</b></p>
-  <p><i>Bridging the gap between robust software architecture and premium user experiences.</i></p>
+  <p><i>Building software with a strong focus on clean and practical user design.</i></p>
 
   <p>
     <a href="https://www.linkedin.com/in/abdul-samad-sohail-bba7692a7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -17,27 +17,27 @@
     <td width="60%" valign="top">
       <h3>🚀 About Me</h3>
       <ul>
-        <li>🎓 <b>Education:</b> Pursuing a BS in Software Engineering at Information Technology University, Lahore[cite: 5].</li>
-        <li>🏫 <b>Leadership:</b> Academic Teaching Assistant for <b>Operating Systems</b> and <b>Software Engineering</b> courses[cite: 7, 9, 10].</li>
-        <li>💻 <b>Core Focus:</b> Developing scalable cross-platform mobile applications using <b>Flutter & Dart</b> [cite: 17, 18], engineering reliable backend architectures [cite: 31], and deploying cloud/ML pipelines[cite: 31, 33].</li>
-        <li>🎨 <b>Design Philosophy:</b> Deeply committed to <b>Human-Computer Interaction (HCI)</b> and user-centered design [cite: 26], translating complex functional specs into minimalist, intuitive interfaces[cite: 23].</li>
+        <li>🎓 <b>Education:</b> Currently studying BS Software Engineering at Information Technology University, Lahore.</li>
+        <li>🏫 <b>Experience:</b> Working as a Teaching Assistant for <b>Operating Systems</b> and <b>Software Engineering</b> courses.</li>
+        <li>💻 <b>What I Do:</b> Build cross-platform mobile apps using <b>Flutter & Dart</b>, write backend logic, and work with cloud and ML setups.</li>
+        <li>🎨 <b>Design Mindset:</b> Focus on Human-Computer Interaction (HCI) to turn complex logic into simple, user-friendly mobile and web interfaces.</li>
       </ul>
     </td>
     <td width="40%" align="right" valign="middle">
-      <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Animated Dev Illustration" width="280"/>
+      <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Animated Developer Graphic" width="280"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🏆 Achievements & Industry Recognition
-- 🥇 **Winner** | [cite_start]Code Rush by GDG ITU 2026 (UI/UX Design Track) [cite: 42]
-- 🥈 **Runner-Up** | [cite_start]SOFTEC 2026 National UI/UX Design Competition [cite: 43]
+## 🏆 Competitions & Achievements
+- 🥇 **Winner** | Code Rush by GDG ITU 2026 (UI/UX Design Track)
+- 🥈 **Runner-Up** | SOFTEC 2026 National UI/UX Design Competition
 
 ---
 
-## 🛠️ Technical Toolkit
+## 🛠️ Skills & Tools
 
 ### 💻 Languages & Frameworks
 <p align="left">
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
 </p>
 
-### 🎨 Product & Design Tools
+### 🎨 Design & Project Management
 <p align="left">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" />
@@ -69,29 +69,29 @@
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
-### 📱 Mobile & Front-End Engineering
-* [cite_start]**Meals App (Flutter & Dart)** [cite: 27]
-  * [cite_start]*Features structured state management using Providers and advanced UI transitions/animations[cite: 28, 29].*
+### 📱 Mobile Applications
+* **Meals App (Flutter & Dart)**
+  * Uses Providers for state management and features custom animations for smooth screen transitions.
   * 🔗 [Project Repository](https://github.com/BSSE23083/Expense_Tracker_App)
 * **Expense Tracker & Quiz Apps (Flutter & Dart)**
-  * *Clean, modular, and responsive mobile architecture interfaces built for efficient data rendering.*
+  * Built with clean code practices to ensure responsive layouts on different mobile screens.
   * 🔗 [Expense Tracker Repo](https://github.com/BSSE23083/Expense_Tracker_App) | 🔗 [Quiz App Repo](https://github.com/BSSE23083/Quiz_App_Flutter)
 
-### ☁️ Cloud & Intelligence Systems
-* [cite_start]**Cloud-Based Notes Platform (MERN Stack & AWS)** [cite: 30, 31]
-  * [cite_start]*Architected a secure 3-tier system utilizing AWS VPC, EC2, and DynamoDB[cite: 31]. Integrated an intelligent AI chatbot for localized budgeting insights and journaling data management[cite: 32].*
-* [cite_start]**Water Potability Pipeline (Machine Learning)** [cite: 33]
-  * [cite_start]*Built an end-to-end classification pipeline using Random Forest, XGBoost, and LightGBM with Optuna hyperparameter tuning[cite: 34, 35]. Deployed via FastAPI and Docker featuring SHAP interpretability[cite: 35].*
+### ☁️ Backend & Machine Learning
+* **Notes Application (MERN Stack & AWS)**
+  * A secure 3-tier web app using AWS VPC, EC2, and DynamoDB. Includes a built-in AI chatbot helper for personal budgeting and note insights.
+* **Water Potability Pipeline (Machine Learning)**
+  * An end-to-end classification system using Random Forest, XGBoost, and LightGBM models. Handled data tuning with Optuna and deployed using FastAPI, Docker, and SHAP.
 
-### 🎨 Premium UI/UX Case Studies
-* [cite_start]**Mobile Mechanic & Rishta App Case Studies** [cite: 25]
-  * [cite_start]*Interactive high-fidelity prototypes and digital layouts focusing heavily on responsive grid structures, accessibility standards, and seamless user-flows[cite: 26].*
-  * 🔗 [Explore my Figma Design Portfolio](https://tr.ee/lbYhFiG96)
+### 🎨 UI/UX Design Cases
+* **Mobile Mechanic & Rishta App Prototyping**
+  * High-fidelity, interactive clickable prototypes in Figma focusing on easy layout navigation and grid alignment.
+  * 🔗 [View Figma Portfolio](https://tr.ee/lbYhFiG96)
 
 ---
 
 <div align="center">
-  <p>📸 Follow my creative work on <a href="https://www.instagram.com/abdulsamad.sohail/" target="_blank">Instagram</a></p>
+  <p>📸 See my visual and design work on <a href="https://www.instagram.com/abdulsamad.sohail/" target="_blank">Instagram</a></p>
 </div>
